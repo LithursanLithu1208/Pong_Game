@@ -17,6 +17,8 @@ The game features a tennis court background with custom paddle textures and a te
    - Using the command line: `love .` (from the project directory)
 
 ## How to Play
+<img width="1612" height="939" alt="Screenshot (517)" src="https://github.com/user-attachments/assets/7793b799-bd1a-44eb-8264-cd0c4e8e72d4" />
+
 
 ### Controls
 
